@@ -5,8 +5,6 @@ int fib(int n );
 int main(){
     printf("%d",fib(6));
 
-
-
     return 0;
 }
 
